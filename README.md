@@ -1,4 +1,4 @@
-<img src="./hridoy-banner.png"/>
+<img src="./hridoy_banner.png"/>
 # Hi there, I'm Md Hridoy Hossain! 👋
 
 📧 hridoythebest@gmail.com | 📞 +8801798443491 | 🌍 Dhaka, Bangladesh
