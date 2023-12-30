@@ -1,11 +1,17 @@
-<img src="./hridoy_banner.png"/>
+<!-- Add a banner -->
+<img src="./hridoy_banner.png" alt="Banner: Md Hridoy Hossain" />
+
 # Hi there, I'm Md Hridoy Hossain! 👋
 
 📧 hridoythebest@gmail.com | 📞 +8801798443491 | 🌍 Dhaka, Bangladesh
 [Linkedin](Your_Linkedin_Profile_Link) | [Github](Your_Github_Profile_Link)
 
+---
+
 ## Objective:
 An enthusiastic and detail-oriented Python Developer with a keen interest in Business Intelligence, equipped with a Bachelor's degree in Computer Science & Engineering. Eager to leverage strong Python, Django, and React skills to contribute effectively to Divine IT Limited's dynamic team. Committed to developing robust and optimized solutions in a collaborative environment.
+
+---
 
 ## Skills:
 ### Expertise:
@@ -19,6 +25,8 @@ Web Scraping, BAS Studio, Selenium, Beautiful Soup, Celery, TypeScript, PostGree
 
 ### Others:
 Git, Github, Jira, PostMan
+
+---
 
 ## Projects:
 ### Delish - Food Ordering Website
@@ -38,6 +46,8 @@ Git, Github, Jira, PostMan
 - **Structured Post Management:** Allows effortless creation and organization of blog content into categories or tags for easy navigation and content discovery.
 - **Engagement-Driven Comment Section:** Facilitates reader engagement by enabling comments on posts, fostering interaction and community around the blog.
 - **Responsive Design:** Ensures a seamless and user-friendly experience by optimizing the blog for viewing across various devices.
+
+---
 
 ## Work Experience:
 ### Netizen IT | Business Executive Partner | June 2017 - Present
@@ -60,29 +70,19 @@ Git, Github, Jira, PostMan
 - Database Training
 - Hardware and Troubleshooting Training
 
+---
+
 ## Education:
 M.Sc in Fisheries From National University | 2017-2018  
 3.19 out of 4.00
 
+---
+
 ## Language:
 Bangla - Native, English - Professional, Hindi - Comfortable
+
+---
 
 ## Additional Skills:
 - Eagerness to learn and adapt to new technologies and methodologies.
 - Diligent and committed work ethic in both individual and team settings.
-
-
-<!--
-**hridoythebest/hridoythebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
