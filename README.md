@@ -1,5 +1,5 @@
 <!-- Add a banner -->
-<img src="./hridoy_banner.png" alt="Banner: Md Hridoy Hossain" />
+<img src="./banner.png" alt="Banner: Md Hridoy Hossain" />
 
 # Hi there, I'm Md Hridoy Hossain! 👋
 
@@ -86,3 +86,6 @@
 ## Additional Skills:
 - **Eagerness to learn and adapt:** 🧠 Always keen on exploring new technologies and methodologies.
 - **Diligent and committed:** 💪 Strong work ethic in both individual and team settings.
+## Certificates
+<img src="./rwdc.png" alt="Responsive Web Design Course Certificate From FreeCodeCamp" />
+<img src="./wscertificate.png" alt="Python Web Scraping Certificate From WsCube Tech" />
