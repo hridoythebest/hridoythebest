@@ -4,7 +4,7 @@
 # Hi there, I'm Md Hridoy Hossain! 👋
 
 📧 hridoythebest@gmail.com | 📞 +8801798443491 | 🌍 Dhaka, Bangladesh
-[Linkedin](Your_Linkedin_Profile_Link) | [Github](Your_Github_Profile_Link)
+[Linkedin](https://www.linkedin.com/in/hridoythebest5/) | [Github](https://github.com/hridoythebest/django_blog)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## Projects:
 ### Delish - Food Ordering Website
-[Github Link](Your_Delish_Github_Link) | [Live Link](Your_Delish_Live_Link)
+[Github Link](https://github.com/hridoythebest/delish) | [Live Link](http://hridoythebest.pythonanywhere.com/)
 🍔 "Delish simplifies food ordering with an intuitive interface for customers to browse menus, order, and pay online. Restaurant owners manage efficiently with a robust dashboard for menu, orders, and customer handling."
 
 #### Features:
@@ -39,7 +39,7 @@
 - **Menu Management:** 🍽️ Restaurant owners can effortlessly update menus, modify prices, and control item availability, ensuring accurate and up-to-date offerings for customers.
 
 ### Django Blog - Simple Personal Blogging website
-[Github Link](Your_Django_Blog_Github_Link)
+[Github Link](https://github.com/hridoythebest/django_blog)
 📝 "Django_blog: A web app built with Django for efficient creation and management of blog content. Enables users to publish and manage posts within a structured environment."
 
 #### Features:
