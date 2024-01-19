@@ -92,21 +92,6 @@
 
 
 
-## Skills:
-### Expertise:
-🌟 HTML, CSS, Tailwind, MySQL, Mongo, Bootstrap, SEO, Content Creation
-
-### Comfortable:
-🚧 Python, Django, C/C++, REST API, JS, React, Node, Express, Research and Analysis
-
-### Familiar:
-🔍 Web Scraping, BAS Studio, Selenium, Beautiful Soup, Celery, TypeScript, PostGrees
-
-### Others:
-🔗 Git, Github, Jira, PostMan
-
----
-
 ## Projects:
 ### Delish - Food Ordering Website
 [Github Link](https://github.com/hridoythebest/delish) | [Live Link](http://hridoythebest.pythonanywhere.com/)
